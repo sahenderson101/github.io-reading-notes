@@ -7,6 +7,6 @@ Hello world. This is Sharonese. I am taking Web Dev4 with Pivot Tech in Nashvill
 
 1. Be willing to take constructive criticism
 2. Do not compare yourself to others
-3. You will get better with effor and practice
+3. You will get better with effort and practice
 
 https://github.com/sahenderson101
