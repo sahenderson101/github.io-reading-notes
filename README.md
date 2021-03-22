@@ -6,8 +6,6 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 LinkedIn: https://www.linkedin.com/in/sharonese-henderson-015a/
 
-Table of Contents
-
 ## Growth Mindset
 
 **Perseverence and a can do attitude are my way of describing a growth mindset. _Never quitting until the job is done,_ is a great mantra.**
@@ -19,3 +17,9 @@ Table of Contents
 https://github.com/sahenderson101
 
 [mygithubprofile](https://github.com/sahenderson101)
+
+Table of Contents
+
+Github
+Markdown
+Glossary
