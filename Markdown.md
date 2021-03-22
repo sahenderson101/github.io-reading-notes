@@ -35,7 +35,7 @@ Or
 [Inline link](http://www.google.com)
 
 ## Image
-![logo] (https://github.com/logo.png
+![logo] (https://github.com/logo.png)
 
 ## Blockquote
 > A blockquote would look great here
