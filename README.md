@@ -18,10 +18,10 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 ## Table of Contents
 
-Markdown
+[Markdown] (markdown.md)
 
-Text Editor
+[Text Editor] (text-editor.md)
 
-Reflections
+[Reflections]
 
-Glossary
+[Glossary]
