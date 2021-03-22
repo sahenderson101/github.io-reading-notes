@@ -17,9 +17,9 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 ## Table of Contents
 
-[Markdown] (Markdown.md)
+[Markdown](https://github.com/sahenderson101/reading-notes/blob/main/Markdown.md)
 
-[Text Editor] (https://github.com/sahenderson101/reading-notes/blob/main/text-editor.md)
+[Text Editor](https://github.com/sahenderson101/reading-notes/blob/main/text-editor.md)
 
 [Reflections]
 
