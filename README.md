@@ -23,4 +23,4 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 [Reflections]
 
-[Glossary]
+[Glossary](https://github.com/sahenderson101/reading-notes/blob/main/Glossary.md)
