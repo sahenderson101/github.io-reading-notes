@@ -1,8 +1,10 @@
-### reading-notes
+### Sharonese Henderson
 
-Sharonese Henderson 
+Bio
 
 I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experience in project management, hardware and software implementation, systems integration, and courseware development. All of my experience has been at the application support level. I would now like to added coding to my skill set to eventually teach our youth skill that can sustain them as a viable career choice.
+
+LinkedIn: https://www.linkedin.com/in/sharonese-henderson-015a/
 
 Table of Contents
 
