@@ -1,3 +1,5 @@
+## Glossary
+
 Repository - directory or storage space. A collection of files. There is usually one project per repository. 
 Repositories can live on Github and on your local computer. Large Projects may have multiples repositories. For example, Front end and back end.
 Repositories contain each files revision history.
