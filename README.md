@@ -20,8 +20,10 @@ https://github.com/sahenderson101
 
 ## Table of Contents
 
-Github and Markdown
+Markdown
 
 Text Editor
+
+Reflections
 
 Glossary
