@@ -1,6 +1,6 @@
 ### reading-notes
 
-Hello world. This is Sharonese. I am taking Web Dev4 with Pivot Tech in Nashville.
+Greetings. This is Sharonese Henderson. I am an aspiring Front-end Web Developer in Nashville, TN.
 ## Growth Mindset
 
 **Perseverence and a can do attitude are my way of describing a growth mindset. _Never quitting until the job is done,_ is a great mantra.**
