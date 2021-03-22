@@ -16,7 +16,7 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 [mygithubprofile](https://github.com/sahenderson101)
 
 ## Table of Contents
-[Mind Set](mind-set.md)
+[Growth Mindset](mindset.md)
 
 [Markdown](Markdown.md)
 
