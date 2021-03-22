@@ -18,7 +18,7 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 ## Table of Contents
 
-[Markdown] (markdown.md)
+[Markdown] (Markdown.md)
 
 [Text Editor] (text-editor.md)
 
