@@ -1,4 +1,6 @@
-### Reflection and Discussion
+### Text Editor
+
+Reflection and Discussion
 A text editor allows you to write and manage the text needed to build a web site. 
 
 Some of the most important features are: 1.) code completion; 2.) syntax highlighting; 3.) a variety of themes; and 4.) a selection of extensions.
