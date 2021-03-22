@@ -15,6 +15,6 @@ brightly colored text, which is known to be easier on your eyes.
 
 You can use the text editor that come with your computer, there will be no syntax highlighting, no themes and no extensions. 
 
-The text editors if which I was aware were Notepad++ and Atom. There are many others like Text Wrangler, BB Edit, Visual Studio Code, Brackets, and Sublime Text.
+The text editors, of which I were aware, were Notepad++ and Atom. There are many others like Text Wrangler, BB Edit, Visual Studio Code, Brackets, and Sublime Text.
 
-most of this software can be download from their web sites for free and are widely used in web development.
+Most of this software can be download from their web sites for free and are widely used in web development.
