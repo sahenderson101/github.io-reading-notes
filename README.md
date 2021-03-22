@@ -15,8 +15,8 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 [mygithubprofile](https://github.com/sahenderson101)
 
-[gh-md-toc] (#gh-md-toc)
 ## Table of Contents
+
 [Markdown](Markdown.md)
 
 [Text Editor](text-editor.md)
