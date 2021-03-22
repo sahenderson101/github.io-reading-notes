@@ -18,8 +18,10 @@ https://github.com/sahenderson101
 
 [mygithubprofile](https://github.com/sahenderson101)
 
-Table of Contents
+## Table of Contents
 
-Github
-Markdown
+Github and Markdown
+
+Text Editor
+
 Glossary
