@@ -15,4 +15,6 @@ I am an aspiring Front-end Web Developer in Nashville, TN. I have broad experien
 
 [Text Editor](text-editor.md)
 
+[Workflow](Workflow.md)
+
 [Glossary](Glossary.md)
